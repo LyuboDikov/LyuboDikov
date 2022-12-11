@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LyuboDikov
-- 👀 I’m interested in Java, JavaScript and all other programming languages.
-- 🌱 I’m currently learning Java at SoftUni.
+- 👀 I’m interested in Java and JavaScript mainly.
+- 🌱 I’m currently studying Java at SoftUni.
 - 💞️ I’m looking to collaborate on projects that are suitable for beginners, as I myself am one.
 - 📫 Reach me on twitter - @itsDikovSon
 
